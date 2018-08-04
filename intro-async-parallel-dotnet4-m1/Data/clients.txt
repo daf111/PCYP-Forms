@@ -1,0 +1,3 @@
+Lots simulations;30;30;1,4;0,8;1,08;30;5000000
+Many simulations;30;30;1,4;0,8;1,08;30;1000000
+Few simulations;30;30;1,4;0,8;1,08;30;200
